@@ -1,3 +1,3 @@
 # gitskills
-分支冲突;
+解决bug;
 
